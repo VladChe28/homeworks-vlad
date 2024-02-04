@@ -1,0 +1,48 @@
+header{
+  background-color: rgb(220, 220, 246);
+}
+main{
+  background-color: rgb(201, 247, 247);
+}
+footer{
+  background-color: rgb(204, 247, 233);
+}
+.company{
+  background-color: rgb(180, 222, 239);
+}
+.video{
+  background-color: rgb(204, 212, 254);
+}
+.map{
+  background-color: rgb(186, 245, 225);
+}
+nav{
+  text-align: center;
+}
+.navig{
+  
+  display: flex;
+  list-style: none;
+}
+.navigator{
+  display: inline-block;
+  margin-right: 20px;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
