@@ -19,13 +19,13 @@ footer{
 nav{
   text-align: center;
 }
-.navig{display: flex;
+.navig{display: inline-block;
   list-style: none;
   text-align: center
 }
 .navigator{
   display: inline-block;
-  margin-right: 20px;
+  margin-right:40px;
 }
 h1{
   text-align: center;
