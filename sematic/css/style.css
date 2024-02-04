@@ -19,10 +19,9 @@ footer{
 nav{
   text-align: center;
 }
-.navig{
-  
-  display: flex;
+.navig{display: flex;
   list-style: none;
+  text-align: center
 }
 .navigator{
   display: inline-block;
