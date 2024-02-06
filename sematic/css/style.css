@@ -1,4 +1,10 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 header{
+  width: 100%;
   background-color: rgb(220, 220, 246);
 }
 main{
@@ -10,7 +16,7 @@ footer{
 .company{
   background-color: rgb(180, 222, 239);
 }
-.video{
+.if-video{
   background-color: rgb(204, 212, 254);
 }
 .map{
@@ -27,16 +33,32 @@ nav{
   display: inline-block;
   margin-right:40px;
 }
-h1{
-  text-align: center;
-}
 h2{
   text-align: center;
 }
 .block{
   text-align: center;
 }
-
+.photo{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+}
+.emblem{
+  width: 200px;
+  height: auto;
+}
+.box-video{
+  text-align: center;
+}
+video{
+  width: auto;
+  height: 500px;
+}
+.box-video{
+  background-color:rgb(237, 150, 150)
+}
 
 
 
